@@ -1,0 +1,9 @@
+# include <stdio.h>
+# include "Mathfunction.h"
+int main ()
+{
+    printf("Result: %d",add (5,3));
+    printf("Result: %d",subtract(5,3));
+    Printf("Result: %d",Multiply(5,3));
+    return 0;
+}
