@@ -1,9 +1,9 @@
 # include <stdio.h>
-# include "Mathfunction.h"
+# include "Concepts Based programs "
 int main ()
 {
-    printf("Result: %d",add (5,3));
-    printf("Result: %d",subtract(5,3));
-    Printf("Result: %d",Multiply(5,3));
+    printf("Result: %d",add ece,eee(3,5)):
+    printf("Result: %d",add all subjects (3,5)):
+    Printf("Result: %d",add one fail subject (2,3));
     return 0;
 }
