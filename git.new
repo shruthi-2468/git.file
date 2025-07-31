@@ -5,6 +5,6 @@ int main ()
     printf("Result: %d",add (5,3));
     printf("Result: %d",subtract(5,3));
     Printf("Result: %d",Multiply(5,3));
-    Printf("Result: %d",Division(6,8));
+    Printf("Result: %d",Hexagonal(6,8));
     return 0;
 }
