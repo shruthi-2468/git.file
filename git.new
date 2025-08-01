@@ -6,7 +6,8 @@ int main ()
     printf("Result: %d",subtract(5,3));
     Printf("Result: %d",Multiply(5,3));
     Printf("Result: %d",Hexagonal(2,1));
-     Printf("Result: %d",Hexagonal(2,1));
-     
+    Printf("Result: %d",Rectangular(6,8));
+   
+
     return 0;
 }
